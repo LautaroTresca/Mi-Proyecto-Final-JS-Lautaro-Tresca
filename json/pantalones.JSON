@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "titulo": "Jogger Cargo",
+        "subtitulo": "Calidad premium",
+        "tela": "Gabardina",
+        "talles": "Del S al XXL",
+        "imagen": "https://cf.shopee.com.ar/file/b0019cf046e3319d1bda958ae9790fe4_tn",
+        "precio": "$2500"
+    },
+    {
+        "id": "2",
+        "titulo": "Pantalon Corte Chino",
+        "subtitulo": "Calidad premium",
+        "tela": "Algodon",
+        "talles": "Del S al XXL",
+        "imagen": "https://i.blogs.es/134b47/pantalones-hombre-sfera/450_1000.jpg",
+        "precio": "$2200"
+    },
+    {
+        "id": "3",
+        "titulo": "Pantalon Cargo Rustico",
+        "subtitulo": "Calidad premium",
+        "tela": "Algodon rustico con lycra",
+        "talles": "Del S al XXL",
+        "imagen": "https://cdn.shopify.com/s/files/1/0339/7965/products/kaki-2_jpg.jpg?v=1553787070",
+        "precio": "$2300"
+    },
+
+    {
+        "id": "4",
+        "titulo": "Jean Chupin Azul Marino",
+        "subtitulo": "Calidad premium",
+        "tela": "Jean elastizado",
+        "talles": "Del S al XXL",
+        "imagen": "https://taverniti.vteximg.com.br/arquivos/ids/237689-345-345/11294_922X1.jpg?v=637807951727030000",
+        "precio": "$2400"
+    }
+]
